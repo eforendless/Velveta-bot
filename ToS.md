@@ -1,6 +1,6 @@
 📄 Terms of Service – Velveta Bot
 
-Last updated: [Insert Date]
+Last updated: 29/05/2025
 
 By using Velveta ("the Bot"), you agree to the following Terms of Service ("ToS"). If you do not agree with any part of these terms, you must not use the Bot.
 
