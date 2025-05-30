@@ -34,4 +34,4 @@ Upgrade your experience with Velveta's premium system. Each tier unlocks exclusi
 
 ---
 
-> Want to upgrade? Join the [Velveta Support Server](https://discord.gg/uetBu47ZrH) for subscription info, or contact the bot via `=premium` for tier setup and role syncing.
+> Want to upgrade? Join the [Velveta Support Server](https://discord.gg/uetBu47ZrH) for subscription info.
