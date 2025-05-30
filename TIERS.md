@@ -1,51 +1,37 @@
 # Velveta Premium Tiers
 
-Unlock additional power, customization, and perks with Velveta’s premium tier system.  
-Each tier enhances access to features across verification, customization, automation, and AI usage.
+Upgrade your experience with Velveta's premium system. Each tier unlocks exclusive enhancements to customization, automation, identity, and AI features across all connected servers.
 
 ---
 
-## 🟡 Tier 1: Gold
-Designed for users who want enhanced personalization and early access features.
-
-**Included Features:**
-- 5,000 AI tokens monthly (vs 3,000 free-tier)
-- Transfer house ownership to another user
-- Change your house ID
-- Custom embed color for booster and milestone messages
-- Custom embed color for welcome messages
-- Store up to 10 welcome/booster templates
-- 24/7 radio auto-reconnect enabled
-- Gold-tier premium role in Velveta’s official server
+### 🔖 Tier Badges
+- ![Gold](https://img.shields.io/badge/Tier-Gold-FFD700?style=flat&logo=star)
+- ![Platinum](https://img.shields.io/badge/Tier-Platinum-E5E4E2?style=flat&logo=diamond)
+- ![Diamond](https://img.shields.io/badge/Tier-Diamond-00BFFF?style=flat&logo=gem)
 
 ---
 
-## ⚪ Tier 2: Platinum
-A premium experience with deeper control and advanced identity features.
+### 📊 Feature Comparison
 
-**Included Features:**
-- 7,000 AI tokens monthly
-- Create a fully custom house ID
-- Change your global passport key
-- Permanent verification status (no expiration)
-- Houses last 3 days (vs 1 day for free tier)
-- Rename existing houses
-- Store up to 15 welcome/booster templates
-- Platinum-tier premium role across all servers using Velveta’s verification system
+| Feature                                                  | Free Tier | ![Gold](https://img.shields.io/badge/-Gold-FFD700) | ![Platinum](https://img.shields.io/badge/-Platinum-E5E4E2) | ![Diamond](https://img.shields.io/badge/-Diamond-00BFFF) |
+|----------------------------------------------------------|-----------|----------------|---------------------|----------------------|
+| AI Tokens (monthly)                                      | 3,000     | 5,000          | 7,000               | 15,000               |
+| Transfer house ownership                                 | ✖️        | ✔️             | ✔️                  | ✔️                   |
+| Change house ID                                          | ✖️        | ✔️             | ✔️ (custom ID)      | ✔️ (custom ID)       |
+| Change global passport key                               | ✖️        | ✖️             | ✔️                  | ✔️                   |
+| Permanent verification                                   | ✖️        | ✖️             | ✔️                  | ✔️                   |
+| House duration                                           | 1 day     | 1 day          | 3 days              | 3 days + permanent\* |
+| Rename houses                                            | ✖️        | ✖️             | ✔️                  | ✔️                   |
+| Custom embed color (welcome/boost)                       | ✖️        | ✔️             | ✔️                  | ✔️                   |
+| Welcome/boost template slots                             | 3         | 10             | 15                  | 30                   |
+| Premium role in Velveta support server                   | ✖️        | ✔️             | ✔️                  | ✔️                   |
+| Premium role across verified servers                     | ✖️        | ✖️             | ✔️                  | ✔️                   |
+| 24/7 Radio auto-reconnect                                | ✖️        | ✔️             | ✔️                  | ✔️                   |
+| Custom 24/7 radio station URL                            | ✖️        | ✖️             | ✖️                  | ✔️                   |
+| Customizable giveaway join button                        | ✖️        | ✖️             | ✖️                  | ✔️                   |
 
----
-
-## 🔷 Tier 3: Diamond
-The most advanced tier, offering full control, highest limits, and exclusive perks.
-
-**Included Features:**
-- 15,000 AI tokens monthly
-- Upload and use a custom 24/7 radio station URL
-- Fully customize the giveaway join button
-- Store up to 30 welcome/booster templates
-- All features from Gold and Platinum tiers included
+\* Diamond users may request permanent houses (admin approval required).
 
 ---
 
-> Premium tiers are available through Velveta's subscription system.  
-> Benefits apply globally across all servers utilizing Velveta features (where applicable).
+> Want to upgrade? Join the [Velveta Support Server](https://discord.gg/uetBu47ZrH) for subscription info, or contact the bot via `=premium` for tier setup and role syncing.
