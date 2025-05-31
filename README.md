@@ -131,4 +131,14 @@ Velveta is a powerful multi-functional Discord bot designed to enhance server ma
 
 ---
 
+## 17. Advanced and Customizable Leveling System 🧪
+- Track user activity through XP and level progression.
+- Customizable rank card design with avatar, progress bar, and theme colors.
+- Level and XP data stored per server, with optional global profile syncing.
+- `/rank` and `=rank` commands available to view personal or other users’ progress.
+- Admins can reset, set, or modify XP using moderation commands.
+- Integrates with roles and rewards (coming soon).
+
+---
+
 Velveta is continuously evolving to deliver high-performance server tools that remain secure, scalable, and user-friendly. Join the next generation of intelligent Discord automation with Velveta.
